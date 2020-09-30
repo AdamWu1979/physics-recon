@@ -1,2 +1,6 @@
-# physics-recon
-physics-based MRI reconstruction
+
+Scripts for
+
+Physics-based reconstruction methods for parametric mapping
+
+(in preparation)
